@@ -17,7 +17,7 @@ Switch 主题安装器 **简体中文汉化版**
 
 ## 预览图
 
-![image](./privew.png)
+![image](https://github.com/853004649/NXThemesInstaller-zh/blob/main/preview.jpg)
 
 ---
 
