@@ -1,0 +1,2 @@
+# NXThemesInstaller-zh
+基于原作者exelix11的主题安装NXThemesInstaller的汉化版
