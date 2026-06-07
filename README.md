@@ -20,11 +20,5 @@ Switch 主题安装器 **简体中文汉化版**
 ![image](https://github.com/853004649/NXThemesInstaller-zh/blob/main/preview.jpg)
 
 ---
-
-## 一键下载（推荐）
-
-打开终端 / Git Bash 运行以下命令，即可直接下载汉化版 NRO：
-
-```bash
-curl -sSL https://raw.githubusercontent.com/853004649/NXThemesInstaller-zh/main/download.sh | sh
+ 
 ```
